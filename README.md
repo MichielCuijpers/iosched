@@ -1,3 +1,5 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/MichielCuijpers/iosched)](https://bettercodehub.com/)
+
 Google I/O Android App
 ======================
 
